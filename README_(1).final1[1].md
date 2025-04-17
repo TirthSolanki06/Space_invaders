@@ -34,10 +34,10 @@ A simple recreation of the classic **Space Invaders**:
 Here’s a glimpse of our *Space Invaders* game in action and how it looks for beginners diving in with C++ and raylib:
 
 ### In-Game Screenshot
-![Space Invaders Gameplay](IMG-20250417-WA0000.jpg)
+![Space Invaders Gameplay](WhatsApp%20Image%202025-04-17%20at%2012.55.50_72010f33.jpg)
 
 ### Tutorial Artwork
-![Space Invaders for Beginners](IMG-20250417-WA0001.jpg)
+![Space Invaders for Beginners](WhatsApp%20Image%202025-04-17%20at%2012.55.50_d6eaa756.jpg)
 
 ---
 
